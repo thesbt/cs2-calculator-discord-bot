@@ -1,1 +1,1 @@
-A discord bot for https://exp.thesbt.site/
+A discord bot for https://exp.thesbt.net/
